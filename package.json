@@ -1,0 +1,30 @@
+{
+  "name": "tokensfiat-gateway-integration",
+  "version": "1.0.0",
+  "description": "Utilize TokensFiat gateways for easy fiat integration into blockchain applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spread-omgada/tokensfiat-gateway-integration"
+  },
+  "author": "spread-omgada",
+  "license": "MIT",
+  "dependencies": {
+    "tokensfiat-gateway": "1.0.0",
+    "tokensfiat-gateway-integration": "1.0.0",
+    "react": "1.0.0",
+    "web3-utils": "1.0.0",
+    "react-dom": "1.0.0",
+    "firebase": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "web3": "1.0.0",
+    "underscore": "1.0.0",
+    "jest": "1.0.0",
+    "moment": "1.0.0",
+    "truffle": "1.0.0",
+    "eslint": "1.0.0"
+  }
+}
